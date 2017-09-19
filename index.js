@@ -14,7 +14,7 @@ var _reactDom = require('react-dom');
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
-var _pdfCombined = require('pdfjs-dist/build/pdf.combined.js');
+var _pdfCombined = require('pdfjs-dist-agave/build/pdf.combined.js');
 
 var _pdfCombined2 = _interopRequireDefault(_pdfCombined);
 

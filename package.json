@@ -1,12 +1,8 @@
 {
-  "name": "simple-react-pdf",
+  "name": "simple-react-pdf-agave",
   "version": "1.0.9",
   "description": "Simple PDF React component with vertical scroll bar (pdfjs-dist, ES6 syntax, Babel, Browserify).",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/javascriptiscoolpl/npm-simple-react-pdf"
-  },
   "keywords": [
     "ES6",
     "ECMAScript 6",
@@ -23,7 +19,7 @@
     "simple"
   ],
   "dependencies": {
-    "pdfjs-dist": "^1.5.222",
+    "pdfjs-dist-agave": "^1.9.575",
     "react": "^15.0.0",
     "react-dom": "^15.0.0"
   },
@@ -47,7 +43,5 @@
     "sent": "npm version patch; npm publish",
     "git": "git init; git add .; git commit -m \"init\"; git remote add origin https://github.com/javascriptiscoolpl/npm-simple-react-pdf.git; git push -u origin master"
   },
-  "author": "Darek L",
-  "license": "MIT",
-  "homepage": "http://javascript.iscool.pl"
+  "license": "MIT"
 }

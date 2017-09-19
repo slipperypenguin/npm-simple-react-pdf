@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import PDF from 'pdfjs-dist/build/pdf.combined.js';
+import PDF from 'pdfjs-dist-agave/build/pdf.combined.js';
 
 export default class SimplePDF extends React.Component {
 
