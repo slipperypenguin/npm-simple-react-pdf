@@ -10,7 +10,7 @@ Screenshot example (3 x Simple PDF React component):
 
 # Install
 
-    npm install simple-react-pdf
+    npm install simple-react-pdf-agave
 
 However, in production or if you do not plan to re-build it, do not install <code>devDependencies</code>. See [npm documentation page](https://docs.npmjs.com/cli/install).
 
